@@ -9,8 +9,10 @@ lorem ipsum
 <br>
 
 ### <a href="https://www.cnn.com/"> #1. CNN </a>
-[insert screenshot of home page]
+<img src="./cnn-screenshot.png">
+<br>
 **Background**: lorem ipsum
+<br>
 **Overall evaluation**: lorem ipsum
 
 Heuristic | Analyses | Recommmendations
