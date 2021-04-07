@@ -4,10 +4,7 @@ Kelly Zhong, DH 110
 <br>
 
 ### Project Background
-- started following the news bc of everything that's been happening in the world: corona, blm, fires, the election, and now aapi
-- i feel like there's a lot to learn about and keep up with 
-- i've mainly been using cnn, but i noticed that most news sites tend to be hard to read and super clustered 
-- by improving the ux and organization, news outlets would be able to 1. help users to more easily find news that they are interested in, 2. ensure that certain news articles are not lost in the big crowd, 3. ensure that top news is emphasized/ made aware of to users
+During the start of this year, I started to follow the news more than ever before. Because of the severity and importance of everything that has been happening in the world, such as the COVID-19 pandemic, Black Lives Matter, the California fires, the election, and now AAPI hate, it was important for me to keep up with and educate myself on current events. I have mainly been using <a href="https://www.cnn.com/"> CNN </a>, which I have noticed many UX problems with. Upon visiting other news outlet websites, such as <a href="https://www.abcnews.go.com/"> ABC News </a>, I noticed that they all had similar problems with readability and organization. Their homepages were overwhelmed with information that I believe would benefit from some user experience changes. **By improving the user experience and organization of their websites, news outlets would be able to 1. ensure that top news is emphasized/ made aware of to users, 2. help users to more easily find news that they are interested in, and 3. prevent certain news articles from being lost in the plethora of content.**
 <br>
 <br>
 
