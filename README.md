@@ -28,9 +28,9 @@ Heuristics | Analyses | Recommmendations
 #4: Consistency and standards | **Issue 1 (Rating: 2) -** Link and hover colors are inconsistent. Some articles have blue link colors instead of the original red. **Issue 2 (Rating: 1) -** The navigation bar changes depending on the article, since each article leads to a different section of the website depending on the article topic. **Issue 3 (Rating: 2, Image 1) -** Some article groups on the home page have features that others don't. For example, the "News and buzz" section has time since posted, but others don't. | Fix the inconsistencies: choose one link and hover style, make returning to the homepage navigation clearer, and unify article group features.
 #5: Error prevention | **Issue (Rating: 1) -** It would be helpful to perform searches within each section of the website, rather than just for the whole site overall. For example, it would benefit users if they could search up specific news about the election in the "Politics" section of the website. | Incorporate search functions within subpages.
 #6: Recognition rather than recall | **Issue 1 (Rating: 1) -** The search engines could provide search suggestions when users are typing, based on keywords. **Issue 2 (Rating: 2, Image 2) -** Inconsistent navigation bars make it hard for users to understand where in the website they are. | Add search suggestions and redesign navigation bars to look cohesive.
-#7: Flexibility and efficiency of use | Analyses | Recommmendations
-#8: Aesthetic and minimalist design | Analyses | Recommmendations
-#9: Help users recognize, diagnose, and recover from errors | Analyses | Recommmendations
+#7: Flexibility and efficiency of use | **Issue (Rating: 2) -** The homepage organization is extremely confusing, with different chunks of information that are not organized in a cohesive manner. This makes the website hard to use and inefficient. | Use better methods of organization that make information visualization clearer to users.
+#8: Aesthetic and minimalist design | **Issue (Rating: 2) -** Website is not aesthetic nor minimal. The abundance of text and lack of spacing gives the website a crammed look. | Increase spacing between text and use cohesive text styles.
+#9: Help users recognize, diagnose, and recover from errors | **Issue (Rating: 1) -** There are no indications for what the articles under the big bolded texts are. Some articles are related to the big bolded text, while others aren't. Users could click on articles thinking that they are related to a topic, when they are actually unrelated. | Utilize symbols, text, or other designe elements to more clearly portray information.
 #10: Help and documentation | Analyses | Recommmendations
 <br>
 <br>
@@ -38,8 +38,8 @@ Heuristics | Analyses | Recommmendations
 **Images**
 Image # | Image
 ------- | -------
-1 | <img src="./h4-issue3.png" width="500">
-2 | 
+1 | <img src="./h4-issue3.png" width="600">
+2 | <img src="./politics-nav.png" width="700"> <img src="./world-nav.png" width="700">
 <br>
 <br>
 
