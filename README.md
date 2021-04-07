@@ -12,7 +12,7 @@ Kelly Zhong, DH 110
 <br>
 
 ### <a href="https://www.cnn.com/"> #1. CNN </a>
-<img src="./cnn-screenshot.png">
+<img src="./cnn-screenshot.png" width="80%">
 <br>
 
 **Background**: lorem ipsum
@@ -22,7 +22,7 @@ Kelly Zhong, DH 110
 <br>
 <br>
 
-Heuristic | Analyses | Recommmendations
+Heuristics | Analyses | Recommmendations
 ------------ | ------------ | ------------
 #1: Visibility of system status | Analyses | Recommmendations
 #2: Match between system and real world | Analyses | Recommmendations
@@ -38,7 +38,7 @@ Heuristic | Analyses | Recommmendations
 <br>
 
 ### <a href="https://abcnews.go.com/"> #2. ABC News </a>
-<img src="./abc-screenshot.png" width="70%">
+<img src="./abc-screenshot.png" width="80%">
 <br>
 
 **Background**: lorem ipsum
@@ -48,7 +48,7 @@ Heuristic | Analyses | Recommmendations
 <br>
 <br>
 
-Heuristic | Analyses | Recommmendations
+Heuristics | Analyses | Recommmendations
 ------------ | ------------ | ------------
 #1: Visibility of system status | Analyses | Recommmendations
 #2: Match between system and real world | Analyses | Recommmendations
