@@ -11,9 +11,12 @@ lorem ipsum
 ### <a href="https://www.cnn.com/"> #1. CNN </a>
 <img src="./cnn-screenshot.png">
 <br>
+
 **Background**: lorem ipsum
 <br>
+
 **Overall evaluation**: lorem ipsum
+<br>
 
 Heuristic | Analyses | Recommmendations
 ------------ | ------------ | ------------
