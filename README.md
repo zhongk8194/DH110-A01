@@ -17,6 +17,7 @@ lorem ipsum
 
 **Overall evaluation**: lorem ipsum
 <br>
+<br>
 
 Heuristic | Analyses | Recommmendations
 ------------ | ------------ | ------------
@@ -33,11 +34,16 @@ Heuristic | Analyses | Recommmendations
 <br>
 <br>
 
-### <a href="https://www.cnn.com/"> #1. CNN </a>
-[insert screenshot of home page]
+### <a href="https://abcnews.go.com/"> #1. ABC News </a>
+<img src="./abc-screenshot.png">
+<br>
+
 **Background**: lorem ipsum
-**Overall evaluation**: lorem ipsum
+<br>
 
+**Overall evaluation**: lorem ipsum
+<br>
+<br>
 
 Heuristic | Analyses | Recommmendations
 ------------ | ------------ | ------------
@@ -51,5 +57,3 @@ Heuristic | Analyses | Recommmendations
 #8: Aesthetic and minimalist design | Analyses | Recommmendations
 #9: Help users recognize, diagnose, and recover from errors | Analyses | Recommmendations
 #10: Help and documentation | Analyses | Recommmendations
-<br>
-<br>
