@@ -19,22 +19,29 @@ During the start of this year, I started to follow the news more than ever befor
 <br>
 <br>
 
-*images referred to are below the chart*
+*Note: images referred to are below the chart*
 Heuristics | Analyses | Recommmendations
 ------------ | ------------ | ------------
 #1: Visibility of system status | **Issue (Rating: 1) -** The CNN red color is used both as a link hover color and also as a way to call out text. This is confusing, because users are unsure if red text is clickable or not. | Use a different link hover style. For example, lightening the text to a gray, or making the text underlined, could decrease confusion.
 #2: Match between system and real world | **Issue (Rating: 1) -** Because of the layout, it is unclear whether each image, title, and text group is one news article, or if it's a topic that has unrelated articles underneath it. | Use clearer and cohesive methods of article organization, such as symbols or descriptive text. Ex: Using the word "topic: " before headlines. 
 #3: User control and freedom | **Issue (Rating: 1) -** When visiting an article, a video automatically starts to play. Though this may be helpful for some, it can be distracting and overwhelming to have video and article text input thrown at a user at the same time. In this sense, users have less control because they do not get to choose whether a video gets played or not. | Remove the auto-play function of the video.
 #4: Consistency and standards | **Issue 1 (Rating: 2) -** Link and hover colors are inconsistent. Some articles have blue link colors instead of the original red. **Issue 2 (Rating: 1) -** The navigation bar changes depending on the article, since each article leads to a different section of the website depending on the article topic. **Issue 3 (Rating: 2, Image 1) -** Some article groups on the home page have features that others don't. For example, the "News and buzz" section has time since posted, but others don't. | Fix the inconsistencies: choose one link and hover style, make returning to the homepage navigation clearer, and unify article group features.
-#5: Error prevention | Analyses | Recommmendations
-#6: Recognition rather than recall | Analyses | Recommmendations
+#5: Error prevention | **Issue (Rating: 1) -** It would be helpful to perform searches within each section of the website, rather than just for the whole site overall. For example, it would benefit users if they could search up specific news about the election in the "Politics" section of the website. | Incorporate search functions within subpages.
+#6: Recognition rather than recall | **Issue 1 (Rating: 1) -** The search engines could provide search suggestions when users are typing, based on keywords. **Issue 2 (Rating: 2, Image 2) -** Inconsistent navigation bars make it hard for users to understand where in the website they are. | Add search suggestions and redesign navigation bars to look cohesive.
 #7: Flexibility and efficiency of use | Analyses | Recommmendations
 #8: Aesthetic and minimalist design | Analyses | Recommmendations
 #9: Help users recognize, diagnose, and recover from errors | Analyses | Recommmendations
 #10: Help and documentation | Analyses | Recommmendations
 <br>
 <br>
-- inconsistent link colors, spacing, text sizes, hover colors 
+
+**Images**
+Image # | Image
+------- | -------
+1 | <img src="./h4-issue3.png" width="500">
+2 | 
+<br>
+<br>
 
 ### <a href="https://abcnews.go.com/"> #2. ABC News </a>
 <img src="./abc-screenshot.png" width="80%">
