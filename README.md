@@ -73,6 +73,6 @@ Image # | Image
 ------- | -------
 1 | <img src="./2-h1-issue1.png" width="600">
 2 | <img src="./2-h2-issue1.png" width="600">
-3 | <img src="./2-h2-issue2.png" width="600">
+3 | <img src="./2-h2-issue2.png" width="300">
 <br>
 <br>
