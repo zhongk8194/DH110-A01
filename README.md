@@ -59,18 +59,20 @@ Heuristics | Analyses | Recommmendations
 ------------ | ------------ | ------------
 #1: Visibility of system status | **Issue (Rating: 3, Image 1) -** There is no indication what page the user is on when a section on the nav bar is clicked. In the image, you can see that though the user is on the Video page, it is not shown in the nav bar or anywhere on the page. | Indicate on the nav bar which page is currently being visited. This can be done by bolding or changing the color of the text. 
 #2: Match between system and real world | **Issue 1 (Rating: 2, Image 2) -** It is unclear what the 3x3 dot grid symbol on the nav bar means, as this is not a symbol that is commonly used. **Issue 2 (Rating: 2, Image 3) -** It is unclear what the group of articles on the left is, and why it is relevant. | It would be helpful to change the symbol to the word "Topics". A descriptive title such as "Top News" on top of the group of articles would be beneficial.
-#3: User control and freedom | Analyses | Recommmendations
-#4: Consistency and standards | Analyses | Recommmendations
-#5: Error prevention | Analyses | Recommmendations
-#6: Recognition rather than recall | Analyses | Recommmendations
-#7: Flexibility and efficiency of use | Analyses | Recommmendations
-#8: Aesthetic and minimalist design | Analyses | Recommmendations
-#9: Help users recognize, diagnose, and recover from errors | Analyses | Recommmendations
-#10: Help and documentation | Analyses | Recommmendations
+#3: User control and freedom | **Issue (Rating: 1) -** When playing a video on the article, there is no way to watch the video and read the article at the same time, a function that CNN's website has. This could be helpful to users. | Incorporate video minimizing and permanent position function. 
+#4: Consistency and standards | **Issue (Rating: 1) -** There is inconsistent styling in the website pages. For example, the "Coronavirus" page utilizes fonts that are not seen on any other pages. | Fix font inconsistencies.
+#5: Error prevention | **Issue (Rating: 1) -** It would be helpful to perform searches within each section of the website, rather than just for the whole site overall. For example, it would benefit users if they could search up specific news about vaccines in the "Coronavirus" section of the website. | Incorporate search functions within subpages.
+#6: Recognition rather than recall | **Issue 1 (Rating: 1) -** It would be helpful to incorporate suggested results in the search bar upon the typing of keywords by users. **Issue 2 (Rating: 3) -** As mentioned above, there is no indication what page the user is on when a sectionon the nav bar is clicked. This makes it so users have to remember what page they clicked. | Implement suggestive search functions and change nav bar text styles depending on what page the user is on. 
+#7: Flexibility and efficiency of use | **Issue (Rating: 2) -** The homepage has confusing organization. | It could benefit from adding and emphasizing section titles. Furthermore, there are a lot of random blank spaces that could be filled with content. 
+#8: Aesthetic and minimalist design | **Issue (Rating: 1) -** The website is not very minimalist, but it is a bit more aesthetic than CNN's. There is more spacing that makes it more breathable. However, there is a lot of text and images that can be overwhelming to users. | Decrease amount of text styles used and use clearer section dividers.
+#9: Help users recognize, diagnose, and recover from errors | **Issue (Rating: 1) -** There are no search suggestions or typo indicators that could prevent users from incorrectly searching up a topic. | Incorporate suggestive search and typo-catching functions that could help users with their search experience. 
+#10: Help and documentation | **Issue (Rating: 1) -**  There are "Contact" and "Feedback" pages, which are helpful to users, but no FAQ page. Furthermore, the footer where the "Contact" and "Feedback" pages can be reached is not present in many of the site pages. | Include a FAQ page and implement the footer on all pages.
 
 **Images**
 Image # | Image
 ------- | -------
 1 | <img src="./2-h1-issue1.png" width="600">
+2 | <img src="./2-h2-issue1.png" width="600">
+3 | <img src="./2-h2-issue2.png" width="600">
 <br>
 <br>
