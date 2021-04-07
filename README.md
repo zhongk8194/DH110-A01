@@ -57,8 +57,8 @@ Image # | Image
 *Note: images referred to are below the chart*
 Heuristics | Analyses | Recommmendations
 ------------ | ------------ | ------------
-#1: Visibility of system status | **Issue (Rating: 2, Image 1) -** There is no indication what page the user is on when a section on the nav bar is clicked. In the image, you can see that though the user is on the Video page, it is not shown in the nav bar or anywhere on the page. | Indicate on the nav bar which page is currently being visited. This can be done by bolding or changing the color of the text. 
-#2: Match between system and real world | Analyses | Recommmendations
+#1: Visibility of system status | **Issue (Rating: 3, Image 1) -** There is no indication what page the user is on when a section on the nav bar is clicked. In the image, you can see that though the user is on the Video page, it is not shown in the nav bar or anywhere on the page. | Indicate on the nav bar which page is currently being visited. This can be done by bolding or changing the color of the text. 
+#2: Match between system and real world | **Issue 1 (Rating: 2, Image 2) -** It is unclear what the 3x3 dot grid symbol on the nav bar means, as this is not a symbol that is commonly used. **Issue 2 (Rating: 2, Image 3) -** It is unclear what the group of articles on the left is, and why it is relevant. | It would be helpful to change the symbol to the word "Topics". A descriptive title such as "Top News" on top of the group of articles would be beneficial.
 #3: User control and freedom | Analyses | Recommmendations
 #4: Consistency and standards | Analyses | Recommmendations
 #5: Error prevention | Analyses | Recommmendations
@@ -71,6 +71,6 @@ Heuristics | Analyses | Recommmendations
 **Images**
 Image # | Image
 ------- | -------
-1 | <img src="./h4-issue3.png" width="600">
+1 | <img src="./2-h1-issue1.png" width="600">
 <br>
 <br>
