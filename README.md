@@ -38,7 +38,7 @@ Heuristic | Analyses | Recommmendations
 <br>
 
 ### <a href="https://abcnews.go.com/"> #2. ABC News </a>
-<img src="./abc-screenshot.png">
+<img src="./abc-screenshot.png" width="70%">
 <br>
 
 **Background**: lorem ipsum
