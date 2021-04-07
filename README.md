@@ -31,7 +31,7 @@ Heuristics | Analyses | Recommmendations
 #7: Flexibility and efficiency of use | **Issue (Rating: 2) -** The homepage organization is extremely confusing, with different chunks of information that are not organized in a cohesive manner. This makes the website hard to use and inefficient. | Use better methods of organization that make information visualization clearer to users.
 #8: Aesthetic and minimalist design | **Issue (Rating: 2) -** Website is not aesthetic nor minimal. The abundance of text and lack of spacing gives the website a crammed look. | Increase spacing between text and use cohesive text styles.
 #9: Help users recognize, diagnose, and recover from errors | **Issue (Rating: 1) -** There are no indications for what the articles under the big bolded texts are. Some articles are related to the big bolded text, while others aren't. Users could click on articles thinking that they are related to a topic, when they are actually unrelated. | Utilize symbols, text, or other designe elements to more clearly portray information.
-#10: Help and documentation | Analyses | Recommmendations
+#10: Help and documentation | **Issue (Rating: 3) -** There are no noticeable help or FAQ pages. | Add a help or FAQ page.
 <br>
 <br>
 
@@ -47,16 +47,17 @@ Image # | Image
 <img src="./abc-screenshot.png" width="80%">
 <br>
 
-**Background**: lorem ipsum
+**Background**: The ABC News website is the website of the ABC News television network. The site acts as a source for users to catch up with the top news in the world. News covered fall into categories of U.S., International, Politics, Business, Entertainment, Lifestyle, Health, Virtual Reality, Weather, etc. Users can also choose between sections of videos, Live, shows, and the Coronavirus. 
 <br>
 
-**Overall evaluation**: lorem ipsum
+**Overall evaluation**: Upon viewing the site, I felt that it looked cleaner and easier to navigate than CNN's website. There is more spacing between text, and sections are more comprehendable. However, there are still some inconsistencies and organization issues that ABC News could benefit from solving. 
 <br>
 <br>
 
+*Note: images referred to are below the chart*
 Heuristics | Analyses | Recommmendations
 ------------ | ------------ | ------------
-#1: Visibility of system status | Analyses | Recommmendations
+#1: Visibility of system status | **Issue (Rating: 2, Image 1) -** There is no indication what page the user is on when a section on the nav bar is clicked. In the image, you can see that though the user is on the Video page, it is not shown in the nav bar or anywhere on the page. | Indicate on the nav bar which page is currently being visited. This can be done by bolding or changing the color of the text. 
 #2: Match between system and real world | Analyses | Recommmendations
 #3: User control and freedom | Analyses | Recommmendations
 #4: Consistency and standards | Analyses | Recommmendations
@@ -66,3 +67,10 @@ Heuristics | Analyses | Recommmendations
 #8: Aesthetic and minimalist design | Analyses | Recommmendations
 #9: Help users recognize, diagnose, and recover from errors | Analyses | Recommmendations
 #10: Help and documentation | Analyses | Recommmendations
+
+**Images**
+Image # | Image
+------- | -------
+1 | <img src="./h4-issue3.png" width="600">
+<br>
+<br>
