@@ -4,7 +4,10 @@ Kelly Zhong, DH 110
 <br>
 
 ### Project Background
-lorem ipsum
+- started following the news bc of everything that's been happening in the world: corona, blm, fires, the election, and now aapi
+- i feel like there's a lot to learn about and keep up with 
+- i've mainly been using cnn, but i noticed that most news sites tend to be hard to read and super clustered 
+- by improving the ux and organization, news outlets would be able to 1. help users to more easily find news that they are interested in, 2. ensure that certain news articles are not lost in the big crowd, 3. ensure that top news is emphasized/ made aware of to users
 <br>
 <br>
 
@@ -34,7 +37,7 @@ Heuristic | Analyses | Recommmendations
 <br>
 <br>
 
-### <a href="https://abcnews.go.com/"> #1. ABC News </a>
+### <a href="https://abcnews.go.com/"> #2. ABC News </a>
 <img src="./abc-screenshot.png">
 <br>
 
